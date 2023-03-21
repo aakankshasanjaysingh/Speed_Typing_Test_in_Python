@@ -1,4 +1,4 @@
-# typing-speed-game
+# Speed_Typing_Test_in_Python
 Typing speed game made in python with tkinter and pygame. Measures typing speed of a person and tells if its average, below averaage or above average. At the end of game tells you your wpm speed.
 
 ## Libraries and modules used:
